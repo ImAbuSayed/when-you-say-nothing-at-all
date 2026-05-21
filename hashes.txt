@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - When You Say Nothing at All
+
+This log tracks the cryptographic history and versioning for the song **When You Say Nothing at All** (when-you-say-nothing-at-all).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T05:27:30.886712 | `v1` | `16bcdbdbdf6f704c8495009424ebb08419a639bc8fc7197f2659e1f58bc3dd35` | `2fde70c1c884cb1391310c5fa76cf4cf87b5a5942bd8d38d707f75873d80127b` | `2026-05-22_when-you-say-nothing-at-all-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
