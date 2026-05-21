@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/when-you-say-nothing-at-all/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for When You Say Nothing at All](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/when-you-say-nothing-at-all/) |
+| **Get License** | [Get License For When You Say Nothing at All](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/when-you-say-nothing-at-all/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1878)
 
 ---
 
